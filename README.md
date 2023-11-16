@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Butawantemi
 - 👀 I’m interested in mobile application development
-- 🌱 I’m currently learning mobile application development
+- 🌱 I’m currently Software Engineer Student At ALX
 - 💞️ I’m looking to collaborate on project
 - 📫 How to reach me whatsapp no. +255745834919
 
